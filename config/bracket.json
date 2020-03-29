@@ -106,7 +106,7 @@
             "R6_Pick_pct" : 8
         },
         "8-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "VCU",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -121,7 +121,7 @@
             "R6_Pick_pct" : 8
         },
         "9-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "UCF",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -136,7 +136,7 @@
             "R6_Pick_pct" : 8
         },
         "10-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Minnesota",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -151,7 +151,7 @@
             "R6_Pick_pct" : 8
         },
         "11-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Belmont",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -166,7 +166,7 @@
             "R6_Pick_pct" : 8
         },
         "12-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Liberty",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -181,7 +181,7 @@
             "R6_Pick_pct" : 8
         },
         "13-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Saint Louis",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -196,7 +196,7 @@
             "R6_Pick_pct" : 8
         },
         "14-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Yale",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -211,7 +211,7 @@
             "R6_Pick_pct" : 8
         },
         "15-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Bradley",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -226,7 +226,7 @@
             "R6_Pick_pct" : 8
         },
         "16-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "North Dakota State",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -243,7 +243,7 @@
     },
     "BottomLeft" : {
         "1-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Gonzaga",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -258,7 +258,7 @@
             "R6_Pick_pct" : 8
         },
         "2-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Michigan",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -273,7 +273,7 @@
             "R6_Pick_pct" : 8
         },
         "3-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Texas Tech",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -288,7 +288,7 @@
             "R6_Pick_pct" : 8
         },
         "4-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Florida State",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -303,7 +303,7 @@
             "R6_Pick_pct" : 8
         },
         "5-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Marquette",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -318,7 +318,7 @@
             "R6_Pick_pct" : 8
         },
         "6-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Buffalo",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -333,7 +333,7 @@
             "R6_Pick_pct" : 8
         },
         "7-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Nevada",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -348,7 +348,7 @@
             "R6_Pick_pct" : 8
         },
         "8-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Syracuse",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -363,7 +363,7 @@
             "R6_Pick_pct" : 8
         },
         "9-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Baylor",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -378,7 +378,7 @@
             "R6_Pick_pct" : 8
         },
         "10-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Florida",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -393,7 +393,7 @@
             "R6_Pick_pct" : 8
         },
         "11-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Arizona St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -408,7 +408,7 @@
             "R6_Pick_pct" : 8
         },
         "12-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Murray St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -423,7 +423,7 @@
             "R6_Pick_pct" : 8
         },
         "13-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Vermont",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -438,7 +438,7 @@
             "R6_Pick_pct" : 8
         },
         "14-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Northern Kentucky",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -453,7 +453,7 @@
             "R6_Pick_pct" : 8
         },
         "15-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Montana",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -468,7 +468,7 @@
             "R6_Pick_pct" : 8
         },
         "16-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Fairleigh Dickinson",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -485,7 +485,7 @@
     },
     "UpperRight" : {
         "1-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Virginia",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -500,7 +500,7 @@
             "R6_Pick_pct" : 8
         },
         "2-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Tennessee",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -515,7 +515,7 @@
             "R6_Pick_pct" : 8
         },
         "3-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Purdue",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -530,7 +530,7 @@
             "R6_Pick_pct" : 8
         },
         "4-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Kansas St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -545,7 +545,7 @@
             "R6_Pick_pct" : 8
         },
         "5-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Wisconsin",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -560,7 +560,7 @@
             "R6_Pick_pct" : 8
         },
         "6-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Villanova",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -575,7 +575,7 @@
             "R6_Pick_pct" : 8
         },
         "7-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Cincinnati",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -590,7 +590,7 @@
             "R6_Pick_pct" : 8
         },
         "8-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Mississippi",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -605,7 +605,7 @@
             "R6_Pick_pct" : 8
         },
         "9-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Oklahoma",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -620,7 +620,7 @@
             "R6_Pick_pct" : 8
         },
         "10-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Iowa",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -635,7 +635,7 @@
             "R6_Pick_pct" : 8
         },
         "11-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Saint Mary's",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -650,7 +650,7 @@
             "R6_Pick_pct" : 8
         },
         "12-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Oregon",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -665,7 +665,7 @@
             "R6_Pick_pct" : 8
         },
         "13-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "UC Irvine",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -680,7 +680,7 @@
             "R6_Pick_pct" : 8
         },
         "14-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Old Dominion",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -695,7 +695,7 @@
             "R6_Pick_pct" : 8
         },
         "15-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Colgate",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -710,7 +710,7 @@
             "R6_Pick_pct" : 8
         },
         "16-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Gardner-Webb",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -727,7 +727,7 @@
     },
     "BottomRight" : {
         "1-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "North Carolina",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -742,7 +742,7 @@
             "R6_Pick_pct" : 8
         },
         "2-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Kentucky",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -757,7 +757,7 @@
             "R6_Pick_pct" : 8
         },
         "3-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Houston",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -772,7 +772,7 @@
             "R6_Pick_pct" : 8
         },
         "4-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Kansas",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -787,7 +787,7 @@
             "R6_Pick_pct" : 8
         },
         "5-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Auburn",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -802,7 +802,7 @@
             "R6_Pick_pct" : 8
         },
         "6-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Iowa St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -817,7 +817,7 @@
             "R6_Pick_pct" : 8
         },
         "7-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Wofford",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -832,7 +832,7 @@
             "R6_Pick_pct" : 8
         },
         "8-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Utah St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -847,7 +847,7 @@
             "R6_Pick_pct" : 8
         },
         "9-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Washington",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -862,7 +862,7 @@
             "R6_Pick_pct" : 8
         },
         "10-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Seton Hall",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -877,7 +877,7 @@
             "R6_Pick_pct" : 8
         },
         "11-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Ohio St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -892,7 +892,7 @@
             "R6_Pick_pct" : 8
         },
         "12-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "New Mexixo St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -907,7 +907,7 @@
             "R6_Pick_pct" : 8
         },
         "13-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Northeastern",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -922,7 +922,7 @@
             "R6_Pick_pct" : 8
         },
         "14-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Georgia St",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -937,7 +937,7 @@
             "R6_Pick_pct" : 8
         },
         "15-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Abilene Christ",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
@@ -952,7 +952,7 @@
             "R6_Pick_pct" : 8
         },
         "16-Seed" : {
-            "TeamName" : "Duke",
+            "TeamName" : "Iona",
             "R1_Win_Pct" : 50,
             "R2_Win_Pct" : 25,
             "R3_Win_Pct" : 15,
