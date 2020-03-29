@@ -27,6 +27,9 @@ def main(region_names, round_of_64, round_of_32, sweet16, elite8, final4, champi
             print ("Error: Cannot Print Bracket! Incorrect Number of Teams")
             raise
 
+        #Make a copy of final4
+        final_four = collections.deque([])
+        final_four.extend(final4)
         #Open an output file
         #f = open("bracket.txt", w+)
         #Print the Regions
@@ -66,6 +69,17 @@ def main(region_names, round_of_64, round_of_32, sweet16, elite8, final4, champi
             print("")
             print("")
             print("")
+        print("                                  Final Four")
+        print(" " + str(final_four.pop()))
+        print("            " + str(championship.pop()))
+        print(" " + str(final_four.pop()))
+        print("                        " + champion + " is your champion!")
+        print(" " + str(final_four.pop()))
+        print("            " + str(championship.pop()))
+        print(" " + str(final_four.pop()))
+        print("")
+        print("")
+
 
         #f.close()
         
