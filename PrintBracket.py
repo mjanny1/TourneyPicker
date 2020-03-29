@@ -70,6 +70,7 @@ def main(region_names, round_of_64, round_of_32, sweet16, elite8, final4, champi
             print("")
             print("")
         print("                                  Final Four")
+        print("")
         print(" " + str(final_four.pop()))
         print("            " + str(championship.pop()))
         print(" " + str(final_four.pop()))

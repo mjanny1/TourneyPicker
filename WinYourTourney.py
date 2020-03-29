@@ -18,7 +18,9 @@ sweet16      = collections.deque([])
 elite8       = collections.deque([])
 final4       = collections.deque([])
 championship = collections.deque([])
-champion     = ""
+class Tourney:
+    champion = ""
+
 
 """
 SolveRegion()
@@ -68,9 +70,7 @@ def SolveRegion(region_name, Round):
         if len(seeds_remaining) < 1:
             #Move on to the next round
             seeds_remaining.extend(seeds_in_the_next_round)
-            #print ("Seeds in the next round: " + str(seeds_in_the_next_round))
             seeds_in_the_next_round.clear() 
-            #print ("Seeds Remaining: " + str(seeds_remaining))
             Round = Round + 1
 
     #Save off winner's config reference for Final Four Processing
@@ -112,10 +112,12 @@ def SolveFinalFour():
                 seeds_in_the_next_round.appendleft(team1_seed)
                 championship_team_region.appendleft(team1_region)
                 RecordWinner(Round, (data[team1_region][team1_key[0]]["TeamName"]))
+                print(data[team1_region][team1_key[0]]["TeamName"])
             elif winner == 2:
                 seeds_in_the_next_round.appendleft(team2_seed)
                 championship_team_region.appendleft(team2_region)
-                RecordWinner(Round, (data[team2_region][team1_key[0]]["TeamName"]))
+                RecordWinner(Round, (data[team2_region][team2_key[0]]["TeamName"]))
+                print(data[team2_region][team2_key[0]]["TeamName"])
             else:
                 print ("Error Occurred: Algorithm returned a value not equal to 1 or 2")
                 print ("Algorithm returned: " + str(winner))
@@ -126,9 +128,7 @@ def SolveFinalFour():
                 #Move on to the next round
                 final_4_seeds.extend(seeds_in_the_next_round)
                 regions_left.extend(championship_team_region)
-                #print ("Seeds in the next round: " + str(seeds_in_the_next_round))
                 seeds_in_the_next_round.clear() 
-                #print ("Seeds Remaining: " + str(seeds_remaining))
                 Round = Round + 1
 
 
@@ -150,8 +150,8 @@ def RecordWinner(Round, team_name):
         championship.appendleft(team_name)
         #print (championship)
     elif Round == 6:
-        champion = team_name
-        #print (champion)
+        Tourney.champion = team_name
+        #print (Tourneychampion)
     else:
         print ("ERROR Occurred while recording winner: " + str(team_name))
 
@@ -177,6 +177,7 @@ with open("./config/bracket.json") as json_file:
     for n in range(0,len(quadrants)):
         SolveRegion(quadrants[n], 1)
     SolveFinalFour()
+    print ("After Final Four champion: " + str(Tourney.champion))
     region_list = collections.deque([])
     region_list.extend(quadrants)
     region_list.rotate()
@@ -188,7 +189,7 @@ with open("./config/bracket.json") as json_file:
                       elite8,
                       final4,
                       championship,
-                      "champion")
+                      Tourney.champion)
 #except:
 #    print("Error Reading Config File!")
 
