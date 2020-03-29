@@ -172,12 +172,9 @@ def GetRoundOf64():
 #try:
 with open("./config/bracket.json") as json_file:
     data = json.load(json_file)
-    #print (data["UpperLeft"]["1-Seed"]["TeamName"])
-    #print (data[quadrants[0]]["2-Seed"]["TeamName"])
     for n in range(0,len(quadrants)):
         SolveRegion(quadrants[n], 1)
     SolveFinalFour()
-    print ("After Final Four champion: " + str(Tourney.champion))
     region_list = collections.deque([])
     region_list.extend(quadrants)
     region_list.rotate()
