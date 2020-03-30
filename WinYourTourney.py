@@ -112,12 +112,10 @@ def SolveFinalFour():
                 seeds_in_the_next_round.appendleft(team1_seed)
                 championship_team_region.appendleft(team1_region)
                 RecordWinner(Round, (data[team1_region][team1_key[0]]["TeamName"]))
-                print(data[team1_region][team1_key[0]]["TeamName"])
             elif winner == 2:
                 seeds_in_the_next_round.appendleft(team2_seed)
                 championship_team_region.appendleft(team2_region)
                 RecordWinner(Round, (data[team2_region][team2_key[0]]["TeamName"]))
-                print(data[team2_region][team2_key[0]]["TeamName"])
             else:
                 print ("Error Occurred: Algorithm returned a value not equal to 1 or 2")
                 print ("Algorithm returned: " + str(winner))
