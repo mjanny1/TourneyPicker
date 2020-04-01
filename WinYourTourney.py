@@ -59,7 +59,7 @@ def SolveRegion(region_name, Round):
             lastSeed = team1_seed
         elif winner == 2:
             seeds_in_the_next_round.appendleft(team2_seed)
-            RecordWinner(Round, (data[region_name][team1_key[0]]["TeamName"]))
+            RecordWinner(Round, (data[region_name][team2_key[0]]["TeamName"]))
             lastSeed = team2_seed
         else:
             print ("Error Occurred: Algorithm returned a value not equal to 1 or 2")
