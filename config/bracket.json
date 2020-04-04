@@ -8,12 +8,12 @@
             "R4_Win_Pct" : 32,
             "R5_Win_Pct" : 17,
             "R6_Win_Pct" : 8.2,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 98.7,
+            "R2_Pick_Pct" : 94.1,
+            "R3_Pick_Pct" : 85,
+            "R4_Pick_Pct" : 61.9,
+            "R5_Pick_Pct" : 41.1,
+            "R6_Pick_Pct" : 27.1
         },
         "2-Seed" : {
             "TeamName" : "Michigan St",
@@ -23,12 +23,12 @@
             "R4_Win_Pct" : 29.1,
             "R5_Win_Pct" : 16,
             "R6_Win_Pct" : 7.9,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 97.1,
+            "R2_Pick_Pct" : 82.5,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "3-Seed" : {
             "TeamName" : "LSU",
@@ -38,12 +38,12 @@
             "R4_Win_Pct" : 10.2,
             "R5_Win_Pct" : 4.3,
             "R6_Win_Pct" : 1.6,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 94.1,
+            "R2_Pick_Pct" : 68.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "4-Seed" : {
             "TeamName" : "Va Tech",
@@ -53,12 +53,12 @@
             "R4_Win_Pct" : 8.4,
             "R5_Win_Pct" : 3.5,
             "R6_Win_Pct" : 1.3,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 89.1,
+            "R2_Pick_Pct" : 57.1,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "5-Seed" : {
             "TeamName" : "Miss St",
@@ -68,12 +68,12 @@
             "R4_Win_Pct" : 7.5,
             "R5_Win_Pct" : 3,
             "R6_Win_Pct" : 1.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 79.1,
+            "R2_Pick_Pct" : 33.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "6-Seed" : {
             "TeamName" : "Maryland",
@@ -83,12 +83,12 @@
             "R4_Win_Pct" : 3.1,
             "R5_Win_Pct" : 1,
             "R6_Win_Pct" : 0.3,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 80.3,
+            "R2_Pick_Pct" : 25.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "7-Seed" : {
             "TeamName" : "Louisville",
@@ -98,12 +98,12 @@
             "R4_Win_Pct" : 4.1,
             "R5_Win_Pct" : 1.6,
             "R6_Win_Pct" : 0.5,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 62,
+            "R2_Pick_Pct" : 12.2,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "8-Seed" : {
             "TeamName" : "VCU",
@@ -113,12 +113,12 @@
             "R4_Win_Pct" : 2.2,
             "R5_Win_Pct" : 0.7,
             "R6_Win_Pct" : 0.2,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 28.9,
+            "R2_Pick_Pct" : 1.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "9-Seed" : {
             "TeamName" : "UCF",
@@ -128,12 +128,12 @@
             "R4_Win_Pct" : 0.3,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 71.1,
+            "R2_Pick_Pct" : 3.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "10-Seed" : {
             "TeamName" : "Minnesota",
@@ -143,12 +143,12 @@
             "R4_Win_Pct" : 0.6,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 38,
+            "R2_Pick_Pct" : 4.1,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "11-Seed" : {
             "TeamName" : "Belmont",
@@ -158,12 +158,12 @@
             "R4_Win_Pct" : 1.7,
             "R5_Win_Pct" : 0.5,
             "R6_Win_Pct" : 0.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 19.7,
+            "R2_Pick_Pct" : 3.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "12-Seed" : {
             "TeamName" : "Liberty",
@@ -173,12 +173,12 @@
             "R4_Win_Pct" : 0.1,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 20.9,
+            "R2_Pick_Pct" : 5.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "13-Seed" : {
             "TeamName" : "Saint Louis",
@@ -188,12 +188,12 @@
             "R4_Win_Pct" : 0.7,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 10.9,
+            "R2_Pick_Pct" : 3.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "14-Seed" : {
             "TeamName" : "Yale",
@@ -203,12 +203,12 @@
             "R4_Win_Pct" : 0.1,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 5.9,
+            "R2_Pick_Pct" : 1.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "15-Seed" : {
             "TeamName" : "Bradley",
@@ -218,12 +218,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 2.9,
+            "R2_Pick_Pct" : 1.3,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "16-Seed" : {
             "TeamName" : "North Dakota State",
@@ -233,12 +233,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 1.3,
+            "R2_Pick_Pct" : 0.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         }
     },
     "BottomLeft" : {
@@ -250,12 +250,12 @@
             "R4_Win_Pct" : 38.9,
             "R5_Win_Pct" : 22.8,
             "R6_Win_Pct" : 13.9,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 98,
+            "R2_Pick_Pct" : 89.1,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "2-Seed" : {
             "TeamName" : "Michigan",
@@ -265,12 +265,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 96.5,
+            "R2_Pick_Pct" : 71.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "3-Seed" : {
             "TeamName" : "Texas Tech",
@@ -280,12 +280,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 94.9,
+            "R2_Pick_Pct" : 63.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "4-Seed" : {
             "TeamName" : "Florida State",
@@ -295,12 +295,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 96.5,
+            "R2_Pick_Pct" : 84.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "5-Seed" : {
             "TeamName" : "Marquette",
@@ -310,12 +310,12 @@
             "R4_Win_Pct" : 2.8,
             "R5_Win_Pct" : 0.9,
             "R6_Win_Pct" : 0.3,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 68.7,
+            "R2_Pick_Pct" : 11.2,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "6-Seed" : {
             "TeamName" : "Buffalo",
@@ -325,12 +325,12 @@
             "R4_Win_Pct" : 2.9,
             "R5_Win_Pct" : 1.1,
             "R6_Win_Pct" : 0.4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 80.4,
+            "R2_Pick_Pct" : 31.3,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "7-Seed" : {
             "TeamName" : "Nevada",
@@ -340,12 +340,12 @@
             "R4_Win_Pct" : 5.6,
             "R5_Win_Pct" : 2.4,
             "R6_Win_Pct" : 1.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 69.9,
+            "R2_Pick_Pct" : 20.6,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "8-Seed" : {
             "TeamName" : "Syracuse",
@@ -355,12 +355,12 @@
             "R4_Win_Pct" : 1.2,
             "R5_Win_Pct" : 0.3,
             "R6_Win_Pct" : 0.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 66.4,
+            "R2_Pick_Pct" : 7.1,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "9-Seed" : {
             "TeamName" : "Baylor",
@@ -370,12 +370,12 @@
             "R4_Win_Pct" : 1.1,
             "R5_Win_Pct" : 0.3,
             "R6_Win_Pct" : 0.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 33.6,
+            "R2_Pick_Pct" : 2.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "10-Seed" : {
             "TeamName" : "Florida",
@@ -385,12 +385,12 @@
             "R4_Win_Pct" : 0.5,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 30.2,
+            "R2_Pick_Pct" : 6.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "11-Seed" : {
             "TeamName" : "Arizona St",
@@ -400,12 +400,12 @@
             "R4_Win_Pct" : 1.4,
             "R5_Win_Pct" : 0.4,
             "R6_Win_Pct" : 0.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 19.6,
+            "R2_Pick_Pct" : 3.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "12-Seed" : {
             "TeamName" : "Murray St",
@@ -415,12 +415,12 @@
             "R4_Win_Pct" : 0.7,
             "R5_Win_Pct" : 0.2,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 31.4,
+            "R2_Pick_Pct" : 2.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "13-Seed" : {
             "TeamName" : "Vermont",
@@ -430,12 +430,12 @@
             "R4_Win_Pct" : 0.4,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 3.6,
+            "R2_Pick_Pct" : 1.5,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "14-Seed" : {
             "TeamName" : "Northern Kentucky",
@@ -445,12 +445,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 5.1,
+            "R2_Pick_Pct" : 1.6,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "15-Seed" : {
             "TeamName" : "Montana",
@@ -460,12 +460,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 3.6,
+            "R2_Pick_Pct" : 1.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "16-Seed" : {
             "TeamName" : "Fairleigh Dickinson",
@@ -475,12 +475,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 2,
+            "R2_Pick_Pct" : 0.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         }
     },
     "UpperRight" : {
@@ -492,12 +492,12 @@
             "R4_Win_Pct" : 44.5,
             "R5_Win_Pct" : 26.6,
             "R6_Win_Pct" : 16.6,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 98.3,
+            "R2_Pick_Pct" : 79.5,
+            "R3_Pick_Pct" : 69.4,
+            "R4_Pick_Pct" : 48.8,
+            "R5_Pick_Pct" : 28,
+            "R6_Pick_Pct" : 14.6
         },
         "2-Seed" : {
             "TeamName" : "Tennessee",
@@ -507,12 +507,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 97.4,
+            "R2_Pick_Pct" : 81,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "3-Seed" : {
             "TeamName" : "Purdue",
@@ -522,12 +522,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 94.4,
+            "R2_Pick_Pct" : 64.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "4-Seed" : {
             "TeamName" : "Kansas St",
@@ -537,12 +537,12 @@
             "R4_Win_Pct" : 4.6,
             "R5_Win_Pct" : 1.6,
             "R6_Win_Pct" : 0.6,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 88.9,
+            "R2_Pick_Pct" : 57.3,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "5-Seed" : {
             "TeamName" : "Wisconsin",
@@ -552,12 +552,12 @@
             "R4_Win_Pct" : 5.9,
             "R5_Win_Pct" : 2.4,
             "R6_Win_Pct" : 1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 76.4,
+            "R2_Pick_Pct" : 33.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "6-Seed" : {
             "TeamName" : "Villanova",
@@ -567,12 +567,12 @@
             "R4_Win_Pct" : 4.3,
             "R5_Win_Pct" : 1.5,
             "R6_Win_Pct" : 0.6,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 71.2,
+            "R2_Pick_Pct" : 26,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "7-Seed" : {
             "TeamName" : "Cincinnati",
@@ -582,12 +582,12 @@
             "R4_Win_Pct" : 5.5,
             "R5_Win_Pct" : 2.2,
             "R6_Win_Pct" : 1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 74.9,
+            "R2_Pick_Pct" : 14.5,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "8-Seed" : {
             "TeamName" : "Mississippi",
@@ -597,12 +597,12 @@
             "R4_Win_Pct" : 1.5,
             "R5_Win_Pct" : 0.4,
             "R6_Win_Pct" : 0.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 35.3,
+            "R2_Pick_Pct" : 4.5,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "9-Seed" : {
             "TeamName" : "Oklahoma",
@@ -612,12 +612,12 @@
             "R4_Win_Pct" : 0.5,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 64.7,
+            "R2_Pick_Pct" : 15.2,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "10-Seed" : {
             "TeamName" : "Iowa",
@@ -627,12 +627,12 @@
             "R4_Win_Pct" : 0.7,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 25.1,
+            "R2_Pick_Pct" : 3.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "11-Seed" : {
             "TeamName" : "Saint Mary's",
@@ -642,12 +642,12 @@
             "R4_Win_Pct" : 1,
             "R5_Win_Pct" : 0.2,
             "R6_Win_Pct" : 0.1,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 28.8,
+            "R2_Pick_Pct" : 7.5,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "12-Seed" : {
             "TeamName" : "Oregon",
@@ -657,12 +657,12 @@
             "R4_Win_Pct" : 0.9,
             "R5_Win_Pct" : 0.2,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 23.6,
+            "R2_Pick_Pct" : 5.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "13-Seed" : {
             "TeamName" : "UC Irvine",
@@ -672,12 +672,12 @@
             "R4_Win_Pct" : 0.4,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 11.1,
+            "R2_Pick_Pct" : 3.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "14-Seed" : {
             "TeamName" : "Old Dominion",
@@ -687,12 +687,12 @@
             "R4_Win_Pct" : 0.3,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 5.6,
+            "R2_Pick_Pct" : 1.7,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "15-Seed" : {
             "TeamName" : "Colgate",
@@ -702,12 +702,12 @@
             "R4_Win_Pct" : 0.1,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 2.6,
+            "R2_Pick_Pct" : 1.1,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "16-Seed" : {
             "TeamName" : "Gardner-Webb",
@@ -717,12 +717,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 1.7,
+            "R2_Pick_Pct" : 0.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         }
     },
     "BottomRight" : {
@@ -734,12 +734,12 @@
             "R4_Win_Pct" : 30,
             "R5_Win_Pct" : 17.7,
             "R6_Win_Pct" : 8.9,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 98,
+            "R2_Pick_Pct" : 65.1,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "2-Seed" : {
             "TeamName" : "Kentucky",
@@ -749,12 +749,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 97.9,
+            "R2_Pick_Pct" : 87.2,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "3-Seed" : {
             "TeamName" : "Houston",
@@ -764,12 +764,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 96.7,
+            "R2_Pick_Pct" : 87.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "4-Seed" : {
             "TeamName" : "Kansas",
@@ -779,12 +779,12 @@
             "R4_Win_Pct" : 5.6,
             "R5_Win_Pct" : 2.4,
             "R6_Win_Pct" : 0.8,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 97.1,
+            "R2_Pick_Pct" : 87.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "5-Seed" : {
             "TeamName" : "Auburn",
@@ -794,12 +794,12 @@
             "R4_Win_Pct" : 10,
             "R5_Win_Pct" : 6,
             "R6_Win_Pct" : 4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 59.8,
+            "R2_Pick_Pct" : 7.2,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "6-Seed" : {
             "TeamName" : "Iowa St",
@@ -809,12 +809,12 @@
             "R4_Win_Pct" : 3.1,
             "R5_Win_Pct" : 1.1,
             "R6_Win_Pct" : 0.4,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 56.8,
+            "R2_Pick_Pct" : 5.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "7-Seed" : {
             "TeamName" : "Wofford",
@@ -824,12 +824,12 @@
             "R4_Win_Pct" : 2.8,
             "R5_Win_Pct" : 1.1,
             "R6_Win_Pct" : 0.3,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 60.1,
+            "R2_Pick_Pct" : 7.4,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "8-Seed" : {
             "TeamName" : "Utah St",
@@ -839,12 +839,12 @@
             "R4_Win_Pct" : 2.2,
             "R5_Win_Pct" : 0.8,
             "R6_Win_Pct" : 0.2,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 77.2,
+            "R2_Pick_Pct" : 29.3,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "9-Seed" : {
             "TeamName" : "Washington",
@@ -854,12 +854,12 @@
             "R4_Win_Pct" : 0.9,
             "R5_Win_Pct" : 0.2,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 22.8,
+            "R2_Pick_Pct" : 4.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "10-Seed" : {
             "TeamName" : "Seton Hall",
@@ -869,12 +869,12 @@
             "R4_Win_Pct" : 0.4,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 39.9,
+            "R2_Pick_Pct" : 4.5,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "11-Seed" : {
             "TeamName" : "Ohio St",
@@ -884,12 +884,12 @@
             "R4_Win_Pct" : 0.6,
             "R5_Win_Pct" : 0.2,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 43.3,
+            "R2_Pick_Pct" : 4.9,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "12-Seed" : {
             "TeamName" : "New Mexixo St",
@@ -899,12 +899,12 @@
             "R4_Win_Pct" : 1,
             "R5_Win_Pct" : 0.2,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 40.3,
+            "R2_Pick_Pct" : 3.6,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "13-Seed" : {
             "TeamName" : "Northeastern",
@@ -914,12 +914,12 @@
             "R4_Win_Pct" : 0.6,
             "R5_Win_Pct" : 0.1,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 2.9,
+            "R2_Pick_Pct" : 1.3,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "14-Seed" : {
             "TeamName" : "Georgia St",
@@ -929,12 +929,12 @@
             "R4_Win_Pct" : 0.1,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 3.3,
+            "R2_Pick_Pct" : 1.5,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "15-Seed" : {
             "TeamName" : "Abilene Christ",
@@ -944,12 +944,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 2.1,
+            "R2_Pick_Pct" : 1,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         },
         "16-Seed" : {
             "TeamName" : "Iona",
@@ -959,12 +959,12 @@
             "R4_Win_Pct" : 0,
             "R5_Win_Pct" : 0,
             "R6_Win_Pct" : 0,
-            "R1_Pick_Pct" : 90,
-            "R2_Pick_Pct" : 60,
-            "R3_Pick_pct" : 30,
-            "R4_Pick_pct" : 18,
-            "R5_Pick_pct" : 12,
-            "R6_Pick_pct" : 8
+            "R1_Pick_Pct" : 2,
+            "R2_Pick_Pct" : 0.8,
+            "R3_Pick_Pct" : 30,
+            "R4_Pick_Pct" : 18,
+            "R5_Pick_Pct" : 12,
+            "R6_Pick_Pct" : 8
         }
     }
 }
