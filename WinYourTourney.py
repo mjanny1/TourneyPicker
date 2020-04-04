@@ -168,7 +168,7 @@ def GetRoundOf64():
             round_of_64.appendleft(data[quadrants[x]][key]["TeamName"])
 
 #try:
-with open("./config/bracket.json") as json_file:
+with open("./config/config.json") as json_file:
     data = json.load(json_file)
     for n in range(0,len(quadrants)):
         SolveRegion(quadrants[n], 1)
