@@ -8,7 +8,7 @@ import PrintBracket as printBracket
 """
 Initializing Static Variables
 """
-quadrants=collections.deque(["UpperLeft","BottomLeft","UpperRight","BottomRight"])
+quadrants=collections.deque(["East","West","South","Midwest"])
 seeding=collections.deque([15,2,10,7,14,3,11,6,13,4,12,5,9,8,16,1])
 seeds_remaining = collections.deque([])
 final_4_seeds = collections.deque([])

@@ -1,5 +1,5 @@
 {
-    "UpperLeft" : {
+    "East" : {
         "1-Seed" : {
             "TeamName" : "Duke",
             "R1_Win_Pct" : 98.1,
@@ -241,7 +241,7 @@
             "R6_Pick_Pct" : 0.1 
         }
     },
-    "BottomLeft" : {
+    "West" : {
         "1-Seed" : {
             "TeamName" : "Gonzaga",
             "R1_Win_Pct" : 97.9,
@@ -483,7 +483,7 @@
             "R6_Pick_Pct" : 0.1 
         }
     },
-    "UpperRight" : {
+    "South" : {
         "1-Seed" : {
             "TeamName" : "Virginia",
             "R1_Win_Pct" : 98,
@@ -725,7 +725,7 @@
             "R6_Pick_Pct" : 0.1 
         }
     },
-    "BottomRight" : {
+    "Midwest" : {
         "1-Seed" : {
             "TeamName" : "North Carolina",
             "R1_Win_Pct" : 98,
