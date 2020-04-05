@@ -84,7 +84,7 @@ def SolveFinalFour():
         #Maintain a list of the remaining regions
         regions_left = collections.deque([])
         regions_left.extend(quadrants)
-        regions_left.rotate()
+        regions_left.reverse()
         championship_team_region = collections.deque([])
         #Maintain a list of the remaining seeds
         seeds_in_the_next_round = collections.deque([])
@@ -143,10 +143,10 @@ def RecordWinner(Round, team_name):
         #print (elite8)
     elif Round == 4:
         final4.appendleft(team_name)
-        #print (final4)
+        print (final4)
     elif Round == 5:
         championship.appendleft(team_name)
-        #print (championship)
+        print (championship)
     elif Round == 6:
         Tourney.champion = team_name
         #print (Tourneychampion)
