@@ -143,10 +143,10 @@ def RecordWinner(Round, team_name):
         #print (elite8)
     elif Round == 4:
         final4.appendleft(team_name)
-        print (final4)
+        #print (final4)
     elif Round == 5:
         championship.appendleft(team_name)
-        print (championship)
+        #print (championship)
     elif Round == 6:
         Tourney.champion = team_name
         #print (Tourneychampion)
