@@ -14,8 +14,14 @@ This function will return a 1 if Team 1 wins and will return
 a 2 if Team 2 wins
 """
 def main(team1_region, team1_seed, team1_key, team2_region, team2_seed, team2_key, Round):
-    if team1_seed < team2_seed:
-        return 1
-    else:
-        return 2
+    return_value = Chalk(team1_seed, team2_seed)
+    return return_value
 
+"""
+Solves the bracket based on chalk outcomes
+"""
+def Chalk(team1_seed, team2_seed):
+    if team1_seed > team2_seed:
+        return 2
+    else:
+        return 1
