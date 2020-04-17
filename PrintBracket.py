@@ -25,6 +25,13 @@ def main(region_names, round_of_64, round_of_32, sweet16, elite8, final4, champi
              len(championship) != 2  or
              len(champion)     <  1):
             print ("Error: Cannot Print Bracket! Incorrect Number of Teams")
+            print(len(round_of_64))
+            print(len(round_of_32))
+            print(len(sweet16))
+            print(len(elite8))
+            print(len(final4))
+            print(len(championship))
+            print(len(champion))
             raise
 
         #Make a copy of final4

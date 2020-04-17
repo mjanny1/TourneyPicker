@@ -1,6 +1,7 @@
 #!/usr/local/bin/python3
 
 import json
+#import BracketSolver as bracketSolver
 
 """
 main()
@@ -12,16 +13,32 @@ main()
 
 This function will return a 1 if Team 1 wins and will return
 a 2 if Team 2 wins
+
+Example of team1_key: ['1-Seed', 'R1_Win_Pct', 'R1_Pick_Pct']
 """
-def main(team1_region, team1_seed, team1_key, team2_region, team2_seed, team2_key, Round):
-    return_value = Chalk(team1_seed, team2_seed)
+
+def main(current):
+    return_value = Chalk(current.team1_seed, current.team2_seed)
     return return_value
 
+
 """
-Solves the bracket based on chalk outcomes
+
+
+
+ALGORITHMS LISTED BELOW
+
+
+
+"""
+
+"""
+Chalk: Solves the bracket based on chalk outcomes
 """
 def Chalk(team1_seed, team2_seed):
     if team1_seed > team2_seed:
         return 2
     else:
         return 1
+
+
