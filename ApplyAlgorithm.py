@@ -4,7 +4,8 @@ import json
 
 """
 main()
-    current: The instance of the Tourney class that is using this.
+    current: The instance of the NewTourney class that is using this.
+             NewTourney class can be found in BracketSolver.py
 
 This function will return a 1 if Team 1 wins and will return
 a 2 if Team 2 wins
