@@ -116,6 +116,12 @@ def SolveRegion(region_name, current):
     #Save off winner's config reference for Final Four Processing
     final_4_seeds.appendleft(lastSeed)
 
+"""
+SolveFinalFour()
+
+Description:
+    This will solve the Final Four.
+"""
 def SolveFinalFour(current):
     # Check to make sure there are 4 teams
     if len(final_4_seeds) == 4:
@@ -163,8 +169,13 @@ def SolveFinalFour(current):
                 seeds_in_the_next_round.clear() 
                 current.increment_round()
 
+"""
+RecordWinner()
+    team_name: The name of the team that just won.
 
-
+Description:
+    This will the record the winner in a queue for each round.
+"""
 def RecordWinner(current, team_name):
     if current.round == 1:
         round_of_32.appendleft(team_name)
@@ -187,7 +198,13 @@ def RecordWinner(current, team_name):
     else:
         print ("ERROR Occurred while recording winner: " + str(team_name))
 
+"""
+KeyBuilder()
+    Round: The round you are currently solving
 
+Description:
+    This will return an index key to get values from the config file.
+"""
 def KeyBuilder(seed, Round):
     seed_key =            str(seed) + "-Seed"
     win_pct_key =  "R" + str(Round) + "_Win_Pct"
@@ -195,13 +212,18 @@ def KeyBuilder(seed, Round):
     keys = [seed_key, win_pct_key, pick_pct_key]
     return keys
 
+"""
+GerRoundOf64()
+
+Description:
+    This will create a queue of the teams in the Round of 64
+"""
 def GetRoundOf64():
     for x in range(0,len(quadrants)):
         for y in range(15, -1, -1):
             key = str(seeding[y]) + "-Seed"
             round_of_64.appendleft(data[quadrants[x]][key]["TeamName"])
 
-#try:
 with open("./config/config.json") as json_file:
     data = json.load(json_file)
     current = NewTourney(2019, data)
@@ -220,6 +242,4 @@ with open("./config/config.json") as json_file:
                       final4,
                       championship,
                       current.champion)
-#except:
-#    print("Error Reading Config File!")
 
